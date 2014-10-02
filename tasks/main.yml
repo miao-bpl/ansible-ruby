@@ -4,3 +4,7 @@
 
 - name: Install Ruby
   apt: pkg=ruby2.1={{ ruby_version }} state=present
+
+- name: Install Ruby development packages
+  apt: pkg=ruby2.1-dev={{ ruby_version }} state=present
+  when: ruby_development | bool

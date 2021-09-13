@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: Hector Castro
+  author: Rongbing Miao
   description: An Ansible role for installing the Ruby programming language.
-  company: Azavea Inc.
+  company: BPL
   license: Apache
   min_ansible_version: 1.2
   platforms:

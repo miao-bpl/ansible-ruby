@@ -1,7 +1,3 @@
 ---
-<<<<<<< HEAD
-ruby_version: "2.2.4"
-=======
 ruby_version: "2.2.6"
->>>>>>> 280a148 (Rongbing first push)
 ruby_development: False
